@@ -1,0 +1,22 @@
+.chat {
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.msg { 
+    background-color: aquamarine;
+    border-radius: 15px;
+    margin-left:20px;
+    margin-right:20px;
+    padding:5px;
+}
+
+.to{
+    text-align: right;
+}
+
+.btns {
+    display : flex;
+}
+button {
+    margin : 2px;
+}
